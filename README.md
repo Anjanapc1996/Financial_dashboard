@@ -103,9 +103,7 @@ Note: These are analytical insights supported by the dashboard features. Actual 
 
 ## 📷 **Dashboard Preview**
 
-
-
-
+![Financial Dashboard](images/financial_dashboards.png)
 
 ## 🚀 **Conclusion**
 
